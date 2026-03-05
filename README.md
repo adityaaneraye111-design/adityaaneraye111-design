@@ -66,7 +66,7 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
 
 [An image of @adityaaneraye111-design's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityaaneraye111-design)](https://holopin.io/@adityaaneraye111-design)
 
-####🔍 Profile views :
+🔍 Profile views :
 [Visitor Count](https://profile-counter.glitch.me/{adityaaneraye111-design}/count.svg)
 
 <div align="center">
