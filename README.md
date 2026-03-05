@@ -18,8 +18,10 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
  <a href="https://www.linkedin.com/in/aditya-aneraye/">
 	 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  
-</div>              
+  <a href="https:www.geeksforgeeks.org/profile/adityaaneraye/">
+ <img src="https://img.shields.io/badge/GeeksforGeeks-white?style=for-the-badge&logo=geeksforgeeks&logoColor=green" alt="geeksforgeeks Badge"/>
+  </a>
+  </div>              
 
 <h2 ><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="35" height="40" /> About me : </h2>
    🎓 Passionate CSE student at M.B.E.Society's College Of Engineering,Ambejogai, graduating in 2028, continuously upgrading my skills to excel in DSA, web development, and open-source contributions. <br><br>
