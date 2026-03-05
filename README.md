@@ -12,23 +12,23 @@
 
 Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on the following platforms: <br> <br>
 <div id="badges" align = "center">
-   <a href="https://github.com/dinesh-2047">
+   <a href="https://github.com/adityaaneraye111-design">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
- <a href="https://www.linkedin.com/in/dinesh-bhardwaj2047/">
+ <a href="https://www.linkedin.com/in/aditya-aneraye/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://x.com/learner_dinesh">
+  
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
   </a>
 </div>              
 
 <h2 ><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="35" height="40" /> About me : </h2>
-   🎓 Passionate CSE student at SBBSU, graduating in 2027, continuously upgrading my skills to excel in DSA, web development, and open-source contributions. <br><br>
+   🎓 Passionate CSE student at MBESCOEA, graduating in 2028, continuously upgrading my skills to excel in DSA, web development, and open-source contributions. <br><br>
     🤝 Actively seeking networking opportunities to connect with professionals and enthusiasts alike.  <br><br>
     🚀 Excited to collaborate, learn, and positively impact this world!  <br><br>
     📩 Get in touch: 
-    <a href="mailto:dinesh.bhardwaj2047@gmail.com">dinesh07bhardwaj@gmail.com</a>  <br><br>
+    <a href="mailto:adityaanerate111@gmail.com">adityaaneraye215@gmail.com</a>  <br><br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
