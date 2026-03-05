@@ -13,12 +13,12 @@
 Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on the following platforms: <br> <br>
 <div id="badges" align = "center">
    <a href="https://github.com/adityaaneraye111-design">
+	   <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
  <a href="https://www.linkedin.com/in/aditya-aneraye/">
+	 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
-  </a>
 </div>              
 
 <h2 ><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="35" height="40" /> About me : </h2>
