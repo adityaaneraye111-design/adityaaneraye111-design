@@ -35,14 +35,14 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
 <table align="center">
 	<tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src="https://skillicons.dev/icons?i=c,cpp,python,java&theme=dark"></td>
+	<td><img height=40 src="https://skillicons.dev/icons?i=c,cpp,python&theme=dark"></td>
 </tr>
 
 </tr>
 
 <tr>
 	<td><strong>Developer Tools</strong></td>
-	<td><img height=40 src="https://skillicons.dev/icons?i=github,vscode,mongodb&theme=dark"></td>
+	<td><img height=40 src="https://skillicons.dev/icons?i=github,vscode,window,mongodb&theme=dark"></td>
 </tr>
 
 </table>
@@ -51,7 +51,7 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Detective%20Medium%20Skin%20Tone.png" alt="Man Detective Medium Skin Tone" width="35" height="40" /> GitHub Stats </h1>
 <div align="center" width="50%">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaaneraye111-design&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Dinesh's GitHub Streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaaneraye111-design&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="aditya's GitHub Streak" /></p>
 </div>
 
 <div align="center">
@@ -66,8 +66,8 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
 
 [![An image of @adityaaneraye111-design's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityaaneraye111-design)](https://holopin.io/@adityaaneraye111-design)
 
-#### 🔍 Profile views :
-![Visitor Count](https://profile-counter.glitch.me/{adityaaneraye111-design}/count.svg)
+####🔍 Profile views :
+[Visitor Count](https://profile-counter.glitch.me/{adityaaneraye111-design}/count.svg)
 
 <div align="center">
     <h1>
