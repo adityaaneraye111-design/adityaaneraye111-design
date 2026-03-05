@@ -22,7 +22,7 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
 </div>              
 
 <h2 ><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="35" height="40" /> About me : </h2>
-   🎓 Passionate CSE student at MBESCOEA, graduating in 2028, continuously upgrading my skills to excel in DSA, web development, and open-source contributions. <br><br>
+   🎓 Passionate CSE student at M.B.E.Society's College Of Engineering,Ambejogai, graduating in 2028, continuously upgrading my skills to excel in DSA, web development, and open-source contributions. <br><br>
     🤝 Actively seeking networking opportunities to connect with professionals and enthusiasts alike.  <br><br>
     🚀 Excited to collaborate, learn, and positively impact this world!  <br><br>
     📩 Get in touch: 
