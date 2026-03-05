@@ -38,14 +38,11 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
 	<td><img height=40 src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark"></td>
 </tr>
 
-<tr>
-	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,express&theme=dark" ></td>
 </tr>
 
 <tr>
 	<td><strong>Developer Tools</strong></td>
-	<td><img height=40 src="https://skillicons.dev/icons?i=github,vscode,docker,mysql,mongodb&theme=dark"></td>
+	<td><img height=40 src="https://skillicons.dev/icons?i=github,vscode,mongodb&theme=dark"></td>
 </tr>
 
 </table>
@@ -54,23 +51,23 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Detective%20Medium%20Skin%20Tone.png" alt="Man Detective Medium Skin Tone" width="35" height="40" /> GitHub Stats </h1>
 <div align="center" width="50%">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinesh-2047&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Dinesh's GitHub Streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaaneraye111-design7&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Dinesh's GitHub Streak" /></p>
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dinesh-2047&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dinesh-2047&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dinesh-2047&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dinesh-2047&theme=github_dark"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dinesh-2047&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adityaaneraye111-design&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adityaaneraye111-design&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adityaaneraye111-design&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adityaaneraye111-design&theme=github_dark"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adityaaneraye111-design&theme=github_dark" />
 </div>
 <br>
 <div align="center">
 
-[![An image of @dinesh2047's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dinesh2047)](https://holopin.io/@dinesh2047)
+[![An image of @adityaaneraye111-design's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityaaneraye111-design)](https://holopin.io/@adityaaneraye111-design)
 
 #### 🔍 Profile views :
-![Visitor Count](https://profile-counter.glitch.me/{dinesh-2047}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{adityaaneraye111-design}/count.svg)
 
 <div align="center">
     <h1>
