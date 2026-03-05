@@ -51,7 +51,7 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Detective%20Medium%20Skin%20Tone.png" alt="Man Detective Medium Skin Tone" width="35" height="40" /> GitHub Stats </h1>
 <div align="center" width="50%">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaaneraye111-design7&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Dinesh's GitHub Streak" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityaaneraye111-design&theme=dark&fire=FF5E5E&ring=FFB380&currStreakNum=FF5E5E" alt="Dinesh's GitHub Streak" /></p>
 </div>
 
 <div align="center">
