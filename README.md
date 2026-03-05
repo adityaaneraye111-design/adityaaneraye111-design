@@ -13,10 +13,8 @@
 Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on the following platforms: <br> <br>
 <div id="badges" align = "center">
    <a href="https://github.com/adityaaneraye111-design">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
  <a href="https://www.linkedin.com/in/aditya-aneraye/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
     <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
@@ -28,7 +26,7 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
     🤝 Actively seeking networking opportunities to connect with professionals and enthusiasts alike.  <br><br>
     🚀 Excited to collaborate, learn, and positively impact this world!  <br><br>
     📩 Get in touch: 
-    <a href="mailto:adityaanerate111@gmail.com">adityaaneraye215@gmail.com</a>  <br><br>
+    <a href="mailto:adityaanerate111@gmail.com">adityaaneraye111@gmail.com</a>  <br><br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
