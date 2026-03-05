@@ -35,7 +35,7 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
 <table align="center">
 	<tr>
 	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src="https://skillicons.dev/icons?i=c,cpp,python,js&theme=dark"></td>
+	<td><img height=40 src="https://skillicons.dev/icons?i=c,cpp,python,java&theme=dark"></td>
 </tr>
 
 </tr>
