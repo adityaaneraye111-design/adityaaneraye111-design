@@ -18,7 +18,7 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
  <a href="https://www.linkedin.com/in/aditya-aneraye/">
 	 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[https:www.geeksforgeeks.org/profile/adityaaneraye](https://www.geeksforgeeks.org/profile/adityaaneraye?tab=activity)/">
+  <a href="https://www.geeksforgeeks.org/profile/adityaaneraye?tab=activity/">
  <img src="https://img.shields.io/badge/GeeksforGeeks-white?style=for-the-badge&logo=geeksforgeeks&logoColor=green" alt="geeksforgeeks Badge"/>
   </a>
   </div>              
